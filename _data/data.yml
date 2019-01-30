@@ -161,15 +161,17 @@ publications:
       - title: "Red flags for the early detection of Spinal Infection in back pain patients: A Systematic Review."
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         journal: "BMJOpen (2019)"
-        status: under peer-review
+        status: "under peer-review"
 
       - title: "Quadrupedal movement training improves markers of cognition and joint repositioning"
         authors: Matthews M, Yusuf M, Doyle C & Thompson C.
         journal: "Human Movement Science (2016)"
+        status: "published"
 
         - title: "Traditional Martial Arts Training Enhances Balance and Neuromuscular Control in Female Modern Martial Artists"
         authors: Matthews M, Yusuf M, Doyle C & Thompson C.
-        journal: "Yoga Phys Ther (2016),"
+        journal: "Yoga Phys Ther (2016)"
+        status: "published"
 
 
 skills:
