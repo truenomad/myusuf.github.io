@@ -39,12 +39,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A research scientisit who has Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      penatibus et magient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      A research scientisit who has experience and background in musculoskeletal epidmeiology, medical Statistics and R programming.
+      With a strong interest in the application of data science methods to real-world problems within population health.
 
 education:
     - degree: MRes in Musculoskeletal Epidemiology
@@ -55,15 +51,15 @@ education:
         The development, validation and testing of the electronic version of the Survey instrument for Natural history,
         Aetiology and Prevalence of Patellofemoral pain Studies (eSNAPPS) tool.
       details: |
-        To address the shortfalls of the paper-based SNAPPS (a screening tool to detect those with pattelofemoral in the general population)
-        by designing, validating and testing a robust electronic
-        version of the questionnaire. These aims will be achieved by;
+        To address the shortfalls of the paper-based SNAPPS (a screening tool to detect those
+        with pattelofemoral in the general population) by designing, validating and testing
+        a robust electronic version of the questionnaire. Deliverables are;
 
-          - conducting a systematic review and meta-analysis looking at survey response,
-          - digitise the paper version of SNAPPS tool,
-          - creating R script to clean data and 'automate' scoring of survey,
-          - validating eSNAAPS against paper-SNAPPS, and
-          - conduct a cross-sectional the eSNAPPS,
+          - A systematic review and meta-analysis looking at survey response rate.
+          - An electronic version of SNAPPS tool.
+          - An R script to clean data and 'automate' scoring of survey,
+          - A study validating eSNAAPS against paper-SNAPPS.
+          - A cross-sectional study using the eSNAPPS,
 
     - degree: Standalone modules in Epidemiology
       university: London School of Hygiene and Tropical Medicine
@@ -127,21 +123,21 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Epidmeioligical surveys respone rate systematic review & meta-analysis
+        link: "https://github.com/truenomad/responserate_mres"
+        tagline: "My systematic review and meta-analysis for MRes, all written in R."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Titanic - Machine learning from disaster
+        link: "https://github.com/truenomad/titanic_machinel_learning"
+        tagline: "A project as part of kaggle data science competition"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Forecasting rugby player career progression using machine learninig
+        link:
+        tagline: "A project in its early stages, using temporally-rich data from professional rugy league"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Data Visualisation in R
+        link: "https://github.com/truenomad/socviz"
+        tagline: "Something I am learninig, using Kieran Healys book on data Visualisation "
 
       - title: Delta
         link: "#"
@@ -150,9 +146,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Some of my publications and current papers under-review or underway.
 
     papers:
       - title: "Reporting and methods of studies using machine learning for medical diagnosis: a methodological"
@@ -163,8 +157,12 @@ publications:
         authors: Yusuf M, Finucane L, Selfe J.
         conference: "BMJOpen (2019) - under peer-review"
 
-      - title: "Quadrupedal movement training improves markers of cognition and joint repositioning"
+      - title: "How do health professionals translate and cross-culturally validate self-reported health measures? An example using the German version of the SNAPPS tool."
         authors: Matthews M, Yusuf M, Doyle C & Thompson C.
+        conference: "FRIHSC Conference (2018)"
+
+      - title: "Quadrupedal movement training improves markers of cognition and joint repositioning"
+        authors: Uecker S, Yusuf M, Selfe J, McCarthy C, Callaghan M,
         conference: "Human Movement Science (2016) 47:70-80"
 
       - title: "Traditional Martial Arts Training Enhances Balance and Neuromuscular Control in Female Modern Martial Artists"
