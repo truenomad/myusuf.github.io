@@ -16,6 +16,22 @@ sidebar:
     twitter: '@flaneuroo'
     github: truenomad
 
+    skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: R
+        level: 65%
+
+      - name: SQL
+        level: 80%
+
+      - name: Python
+        level: 40%
+
+      - name: Git & Github
+        level: 60%
+
     languages:
       - idiom: English
         level: Native
