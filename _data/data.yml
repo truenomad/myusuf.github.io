@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -27,12 +27,6 @@ sidebar:
       - idiom: Arabic
         level: Elementary
 
-<<<<<<< HEAD
-      - idiom: Spanish
-        level: Professional
-
-=======
->>>>>>> origin/master
     interests:
       - item: Karate
         link:
@@ -86,12 +80,6 @@ education:
           - [Epm103](https://www.lshtm.ac.uk/files/EPM103.pdf) - Practical Epidemiology
           - [Epm105](https://www.lshtm.ac.uk/files/EPM105.pdf) - Writing and reviewing epidemiological papers
 
-<<<<<<< HEAD
-          - Bullet point
-          - Bullet point
-=======
->>>>>>> origin/master
-
     - degree: BSc (Hons) in Musculoskeletal Rehabilitation
       university: University of Salford (Manchester)
       time: 2012 - 2015
@@ -99,40 +87,17 @@ education:
         Degree focused on the clinical treatment of rehabilitation of musculoskeletal conditions.
         A large focus on research and evidence based medicine. Within this degree I achieved;
 
-<<<<<<< HEAD
-          - Bullet point
-          - Bullet point
-=======
           - upper Second-Class Honours (2.1).
           - 95% grade on statistics & research methods.
           - thesis published in a peer-reviewed Journal, Journal of Human Movement Science, and
           - founder & Chairman of Capoeira Society (2013-2014).
->>>>>>> origin/master
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
     - role: Research Assistant
       time: 2017 - present
       company: Manchester Metropolitan University
       Research Group: Clinical Musculoskeletal Group
       details: |
-
           - Project lead for the SNAPPS project, an epidemiological study establishing the prevalence of patellofemoral pain in Europe and America.
           - Produced an online survey that will be used for data collection.
           - Lead the translation and the cultural adaptation of the SNAPPS questionnaire into multiple European languages.
@@ -146,12 +111,6 @@ experiences:
       time: 2015 - 2017
       company: UK Ministry of Defence, Defence Primary Health Care (DPHC).
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
           - Worked with Military personnel from RAF, Navy and Army.
           - Lead in auditing, data management and analysis (quantitative and qualitative).
           - Involved in multi-disciplinary assessment and intervention sessions of patients.
