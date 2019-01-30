@@ -6,13 +6,13 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mohamed A. Yusuf
+    name: Mohamed Yusuf
     tagline: Researcher
-    avatar: mo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Mo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Mohamedayusuf87@gmail.com
-    website: researchgate.net/profile/Mohamed_Yusuf6
+    website: [Researchgate Profile](researchgate.net/profile/Mohamed_Yusuf6)
     twitter: '@flaneuroo'
     github: truenomad
 
@@ -59,39 +59,38 @@ education:
         To address the shortfalls of the paper-based SNAPPS by designing, validating and testing a robust electronic
         version of the questionnaire. These aims will be achieved by;
 
-          - conducting a systematic review and meta-analysis looking at the survey response rate of self-administered paper-based and digital epidemiological surveys,
+          - conducting a systematic review and meta-analysis looking at the survey response rate of paper-based and digital epidemiological surveys,
           - converting the paper version of SNAPPS tool into an electronic version (eSNAPPS),
           - creating an algorithmic script using R to clean the data and 'automate' scoring of survey,
           - validating eSNAAPS against paper-SNAPPS, and
           - testing the robustness of eSNAPPS by piloting 'mass' data collection activity (cross-sectional).
 
-    - degree: Standalone modules on Fundemental of Epidemiologys, Statistics and Computing and Practical Epidemiology
+    - degree: Standalone modules in Epidemiology
       university: London School of Hygiene and Tropical Medicine
       time: 2006 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I took four level 7 distance learninig modules on epidmeiology and statistics.
+        I covered various contents within epidmeiology, including understanding and designing epidmeiological studies,
+        managing and analysing large epidmeiological data and wiritng and reviewing epidemiological papers.
+        The modules & their syllabus are as follows:
 
-          - Bullet point
-          - Bullet point
+          - [EPM101](https://www.lshtm.ac.uk/files/EPM101.pdf) - Fundamentals of Epidemiology
+          - [Epm102](https://www.lshtm.ac.uk/files/EPM102.pdf) - Statistics and Computing
+          - [Epm103](https://www.lshtm.ac.uk/files/EPM103.pdf) - Practical Epidemiology
+          - [Epm105](https://www.lshtm.ac.uk/files/EPM105.pdf) - Writing and reviewing epidemiological papers
 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc (Hons) in Musculoskeletal Rehabilitation
+      university: University of Salford (Manchester)
+      time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Degree focused on the clinical treatment of rehabilitation of musculoskeletal conditions.
+        A large focus on research and evidence based medicine. Within this degree I achieved;
 
-          - Bullet point
-          - Bullet point
-
+          - upper Second-Class Honours (2.1).
+          - 95% grade on statistics & research methods.
+          - thesis published in a peer-reviewed Journal, Journal of Human Movement Science, and
+          - founder & Chairman of Capoeira Society (2013-2014).
 
 experiences:
     - role: Lead Developer
@@ -111,9 +110,24 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Assistant
+      time: 2017 - present
+      company: Manchester Metropolitan University
+      Research Group: Clinical Musculoskeletal Group
+      details: |
+
+          - Project lead for the SNAPPS project, an epidemiological study establishing the prevalence of patellofemoral pain in Europe and America.
+          - Produced an online survey that will be used for data collection.
+          - Lead the translation and the cultural adaptation of the SNAPPS questionnaire into multiple European languages.
+          - Lead in the data collection and analysis, and the dissemination of findings to appropriate research groups and contacts related to the project.
+          - Provided statistical and methods support of the wider musculoskeletal research activity within the department.
+          - Undertook a variety of quantitative research such as systematic reviews, validation studies and prevalence studies (see publications).
+          - Administrative duties for project and lab meetings.
+          - Assist in the supervision of research students.
+
+    - role: Musculoskeletal Rehabilitation Instructor
+      time: 2015 - 2017
+      company: UK Ministry of Defence, Defence Primary Health Care (DPHC).
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,21 +135,12 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Worked with Military personnel from RAF, Navy and Army.
+          - Lead in auditing, data management and analysis (quantitative and qualitative).
+          - Involved in multi-disciplinary assessment and intervention sessions of patients.
+          - Lead group and one-on-one sessions with patients.
+          - Lead in verbal based interventions through workshops and lectures.
+          - Lead in in-service training
 
 projects:
     title: Projects
@@ -173,17 +178,25 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Reporting and methods of studies using machine learning for medical diagnosis: a methodological"
+        authors: Yusuf M, Atal I, Li J, Smith P, Callaghan M, Selfe J, Ravaud P.
+        journal: "BMJ or PloS Medicine (2019)"
+        status: to be submitted
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+
+      - title: "Red flags for the early detection of Spinal Infection in back pain patients: A Systematic Review."
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        journal: "BMJOpen (2019)"
+        status: under peer-review
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Quadrupedal movement training improves markers of cognition and joint repositioning"
+        authors: Matthews M, Yusuf M, Doyle C & Thompson C.
+        journal: "Human Movement Science (2016)"
+
+        - title: "Traditional Martial Arts Training Enhances Balance and Neuromuscular Control in Female Modern Martial Artists"
+        authors: Matthews M, Yusuf M, Doyle C & Thompson C.
+        journal: "Yoga Phys Ther (2016),"
+
 
 skills:
     title: Skills &amp; Proficiency
