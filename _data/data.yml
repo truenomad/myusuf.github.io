@@ -181,14 +181,15 @@ skills:
       - name: SQL
         level: 70%
 
+      - name: Markdown
+        level: 70%
+
       - name: Git & Github
         level: 60%
-
-      - name: Python
-        level: 40%
 
       - name: STATA
         level: 40%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Python
+        level: 30%
+
