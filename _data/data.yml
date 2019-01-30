@@ -154,25 +154,20 @@ publications:
     papers:
       - title: "Reporting and methods of studies using machine learning for medical diagnosis: a methodological"
         authors: Yusuf M, Atal I, Li J, Smith P, Callaghan M, Selfe J, Ravaud P.
-        journal: "BMJ or PloS Medicine (2019)"
-        status: to be submitted
+        conference: "BMJ or PloS Medicine (2019) - to be submitted"
 
 
       - title: "Red flags for the early detection of Spinal Infection in back pain patients: A Systematic Review."
         authors: Yusuf M, Finucane L, Selfe J.
-        journal: "BMJOpen (2019)"
-        status: "under peer-review"
+        conference: "BMJOpen (2019) - under peer-review"
 
       - title: "Quadrupedal movement training improves markers of cognition and joint repositioning"
         authors: Matthews M, Yusuf M, Doyle C & Thompson C.
-        journal: "Human Movement Science (2016)"
-        status: "published"
+        conference: "Human Movement Science (2016) 47:70-80"
 
         - title: "Traditional Martial Arts Training Enhances Balance and Neuromuscular Control in Female Modern Martial Artists"
         authors: Matthews MJ, Matthews H, Yusuf M & Doyle C
-        journal: "Yoga Phys Ther (2016)"
-        status: "published"
-
+        conference: "Yoga Phys Ther (2016) 6:1"
 
 skills:
     title: Skills &amp; Proficiency
