@@ -65,6 +65,20 @@ education:
           - validating eSNAAPS against paper-SNAPPS, and
           - testing the robustness of eSNAPPS by piloting 'mass' data collection activity (cross-sectional).
 
+    - degree: Standalone modules on Fundemental of Epidemiologys, Statistics and Computing and Practical Epidemiology
+      university: London School of Hygiene and Tropical Medicine
+      time: 2006 - 2017
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
@@ -77,6 +91,7 @@ education:
 
           - Bullet point
           - Bullet point
+
 
 experiences:
     - role: Lead Developer
