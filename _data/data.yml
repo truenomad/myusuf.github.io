@@ -3,17 +3,16 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mohamed Yusuf
+    name: Mohamed A. Yusuf
     tagline: Researcher
     avatar: mo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Mohamedayusuf87@gmail.com
-    researchgate: researchgate.net/profile/Mohamed_Yusuf6
+    website: researchgate.net/profile/Mohamed_Yusuf6
     twitter: '@flaneuroo'
     github: truenomad
 
@@ -22,19 +21,19 @@ sidebar:
         level: Native
 
       - idiom: Somali
-        level: Professional
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Arabic
+        level: Elementary
 
     interests:
-      - item: Climbing
+      - item: Karate
         link:
 
-      - item: Snowboarding
+      - item: Street Photography
         link:
 
-      - item: Cooking
+      - item: Longboarding
         link:
 
 career-profile:
@@ -49,18 +48,22 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MRes in Musculoskeletal Epidemiology
+      university: Manchester Metropolitan University
+      time: 2018 - 2019
+      supervisors: Prof. Paola Dey, Prof. James Selfe, Prof. Michael Callaghan
+      title: |
+        The development, validation and testing of the electronic version of the Survey instrument for Natural history,
+        Aetiology and Prevalence of Patellofemoral pain Studies (eSNAPPS) tool.
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        To address the shortfalls of the paper-based SNAPPS by designing, validating and testing a robust electronic
+        version of the questionnaire. These aims will be achieved by;
 
-          - Bullet point
-          - Bullet point
+          - conducting a systematic review and meta-analysis looking at the survey response rate of self-administered paper-based and digital epidemiological surveys,
+          - converting the paper version of SNAPPS tool into an electronic version (eSNAPPS),
+          - creating an algorithmic script using R to clean the data and 'automate' scoring of survey,
+          - validating eSNAAPS against paper-SNAPPS, and
+          - testing the robustness of eSNAPPS by piloting 'mass' data collection activity (cross-sectional).
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
