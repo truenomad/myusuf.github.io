@@ -24,7 +24,7 @@ sidebar:
       - item: Data science
         link:
 
-      - item: Public Health
+      - item: Population health
         link:
 
     expertise:
@@ -55,14 +55,14 @@ education:
         The development, validation and testing of the electronic version of the Survey instrument for Natural history,
         Aetiology and Prevalence of Patellofemoral pain Studies (eSNAPPS) tool.
       details: |
-        To address the shortfalls of the paper-based SNAPPS by designing, validating and testing a robust electronic
+        To address the shortfalls of the paper-based SNAPPS (a screening tool to detect those with pattelofemoral in the general population) by designing, validating and testing a robust electronic
         version of the questionnaire. These aims will be achieved by;
 
-          - conducting a systematic review and meta-analysis looking at the survey response rate of paper-based and digital epidemiological surveys,
+          - conducting a systematic review and meta-analysis looking at survey response,
           - converting the paper version of SNAPPS tool into an electronic version (eSNAPPS),
-          - creating an algorithmic script using R to clean the data and 'automate' scoring of survey,
+          - creating R script to clean data and 'automate' scoring of survey,
           - validating eSNAAPS against paper-SNAPPS, and
-          - testing the robustness of eSNAPPS by piloting 'mass' data collection activity (cross-sectional).
+          - conduct a cross-sectional the eSNAPPS,
 
     - degree: Standalone modules in Epidemiology
       university: London School of Hygiene and Tropical Medicine
@@ -96,7 +96,7 @@ experiences:
       company: Manchester Metropolitan University
       Research Group: Clinical Musculoskeletal Group
       details: |
-          - Project lead for the SNAPPS project, an epidemiological study establishing the prevalence of patellofemoral pain in Europe and America.
+          - Project lead for the an epidemiological study establishing the prevalence of patellofemoral pain in Europe and America.
           - Produced an online survey that will be used for data collection.
           - Lead the translation and the cultural adaptation of the SNAPPS questionnaire into multiple European languages.
           - Lead in the data collection and analysis, and the dissemination of findings to appropriate research groups and contacts related to the project.
