@@ -202,22 +202,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: 65%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 40%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Git & Github
         level: 60%
 
 footer: >
