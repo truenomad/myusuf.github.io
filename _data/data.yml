@@ -39,8 +39,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A research scientisit who has experience and background in musculoskeletal epidmeiology, medical Statistics and R programming.
-      With a strong interest in the application of data science methods to real-world problems within population health.
+      A research scientist who has experience and background in musculoskeletal epidemiology, medical Statistics and R programming.
+      With a strong interest in the application of data science methods to real-world epidemiological problems.
 
 education:
     - degree: MRes in Musculoskeletal Epidemiology
@@ -52,7 +52,7 @@ education:
         Aetiology and Prevalence of Patellofemoral pain Studies (eSNAPPS) tool.
       details: |
         To address the shortfalls of the paper-based SNAPPS (a screening tool to detect those
-        with pattelofemoral in the general population) by designing, validating and testing
+        with patelLofemoral pain in the general population) by designing, validating and testing
         a robust electronic version of the questionnaire. Deliverables are;
 
           - A systematic review and meta-analysis looking at survey response rate.
@@ -65,7 +65,7 @@ education:
       university: London School of Hygiene and Tropical Medicine
       time: 2006 - 2017
       details: |
-        I took four level 7 distance learninig modules on epidmeiology and statistics.
+        I took postgraduate-level distance learninig modules on epidmeiology and statistics.
         I covered various contents within epidmeiology, including understanding and designing epidmeiological studies,
         managing and analysing large epidmeiological data and wiritng and reviewing epidemiological papers.
         The modules & their syllabus are as follows:
@@ -82,9 +82,9 @@ education:
         Degree focused on the clinical treatment of rehabilitation of musculoskeletal conditions.
         A large focus on research and evidence based medicine. Within this degree I achieved;
 
-          - upper Second-Class Honours (2.1).
-          - 95% grade on statistics & research methods.
-          - thesis published in a peer-reviewed Journal, Journal of Human Movement Science, and
+          - upper Second-Class Honours (2.1),
+          - 95% grade on statistics & research methods,
+          - thesis published in a peer-reviewed Journal, Journal of Human Movement Science,
           - founder & Chairman of Capoeira Society (2013-2014).
 
 experiences:
@@ -97,10 +97,8 @@ experiences:
           in Europe and America.
           - Produced an online survey that will be used for data collection.
           - Lead the translation and the cultural adaptation of the SNAPPS
-          questionnaire into multiple European languages.
           - Provided statistical and methods support within the department.
-          - Undertook a variety of quantitative research such as systematic reviews,
-          validation studies and prevalence studies (see publications).
+          - Undertook a variety of quantitative research (see publications).
           - Administrative duties for project and lab meetings.
           - Assist in the supervision of research students.
 
@@ -118,14 +116,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some current side projects I have completed or I am currently working on.
 
     assignments:
       - title: Epidmeioligical surveys respone rate systematic review & meta-analysis
         link: "https://github.com/truenomad/responserate_mres"
-        tagline: "My systematic review and meta-analysis for MRes, all written in R."
+        tagline: "My systematic review and meta-analysis for MRes thesis, this all written and coded in R markdown."
 
       - title: Titanic - Machine learning from disaster
         link: "https://github.com/truenomad/titanic_machinel_learning"
@@ -138,10 +134,6 @@ projects:
       - title: Data Visualisation in R
         link: "https://github.com/truenomad/socviz"
         tagline: "Something I am learninig, using Kieran Healys book on data Visualisation "
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
